@@ -1,6 +1,6 @@
 <?php
 
-namespace App\EagleEyeService;
+namespace Engage\EagleEyeService;
 
 class Auth
 {
