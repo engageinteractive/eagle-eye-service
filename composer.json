@@ -1,7 +1,6 @@
 {
     "name": "engage/eagle-eye-service",
     "description": "Eagle eye service adapter",
-    "version": "1.0.1",
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
@@ -12,7 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Engage\\EagleEyeService": "src/"
+            "Engage\\EagleEyeService\\": "src/"
         }
     },
     "autoload-dev": {
